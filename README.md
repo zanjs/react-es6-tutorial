@@ -1,4 +1,7 @@
 # react-es6-tutorial
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-es6-tutorial.svg)](https://greenkeeper.io/)
+
 A React tutorial with ES6
 
 ## Dependencies
